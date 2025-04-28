@@ -10,5 +10,4 @@
 
 ### Мои соцсети и прочая шняга
 [![Static Badge](https://img.shields.io/badge/-youtube-1a2c13?style=for-the-badge&logo=Youtube&logoColor=dc0000)](https://www.youtube.com/@f1ns3n)
-[![Static Badge](https://img.shields.io/badge/-Telegram-1a2c13?style=for-the-badge&logo=Telegram)](https://t.me/+Fjq1_TptRbA5OWQy)
 [![Static Badge](https://img.shields.io/badge/-discord-1a2c13?style=for-the-badge&logo=discord)](https://discordapp.com/users/763802019030499359/)
