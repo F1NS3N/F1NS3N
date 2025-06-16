@@ -1,8 +1,7 @@
 [![Header](https://github.com/F1NS3N/F1NS3N/blob/main/assets/Github.png)](https://www.youtube.com/@f1ns3n)
 
-## Незаурядный парень который просто делает свою работу.
-*«Уже три или половина четвертого. Мой рабочий день окончен. Сколько же страниц я написал? Неважно. Хорошо ли получилось? Я даже не думаю об этом. Главное: сегодня я преодолел Сопротивление»* - Война за искусство.
-### Языки программирования и прочее
+## Начинающий программист.
+### Языки программирования и не только
 ![Static Badge](https://img.shields.io/badge/-Django-1a2c13?style=for-the-badge&logo=django)
 ![Static Badge](https://img.shields.io/badge/-HTML-1a2c13?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/-CSS-1a2c13?style=for-the-badge&logo=css3&logoColor=0170ba)
