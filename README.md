@@ -2,7 +2,7 @@
 
 ## Начинающий программист.
 ### Языки программирования и не только
-![Static Badge](https://img.shields.io/badge/-C#-1a2c13?style=for-the-badge&logo=Csharp)
+![Static Badge](https://img.shields.io/badge/-C#-1a2c13?style=for-the-badge&logo=C#)
 ![Static Badge](https://img.shields.io/badge/-Unity-1a2c13?style=for-the-badge&logo=Unity)
 
 ### Мои соцсети и прочая шняга
