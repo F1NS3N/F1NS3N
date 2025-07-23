@@ -1,12 +1,12 @@
 [![Header](https://github.com/F1NS3N/F1NS3N/blob/main/assets/Github.png)](https://www.youtube.com/@f1ns3n)
 
-Hi 👋 My name is FIN
+Hi. My name is FIN
 ====================
 
 Mod Developer
 -------------
 
-### Skills
+### Stack
 
 
 <p align="left">
